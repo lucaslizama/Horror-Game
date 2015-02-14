@@ -13,7 +13,6 @@ public class Door : MonoBehaviour {
 	private const float OPEN_ROTATION = 270f;
 	private AudioSource audioSource;
 	
-
 	void Awake () {
 		transform.rotation = Quaternion.identity;
 		doorIsOpen = false;
