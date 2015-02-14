@@ -5,7 +5,7 @@
 [Oo]bj/
 [Bb]uild
 [Ll]ibrary/
-[Aa]ssets/3D_Models/
+[Aa]ssets/3D\ Models/
 [Aa]ssets/Animations/
 [Aa]ssets/Sounds/
 [Aa]ssets/Images/
@@ -24,7 +24,6 @@ sysinfo.txt
 /*.user
 /*.unityproj
 /*.booproj
-*.*.meta
  
 # ============ #
 # OS generated #
