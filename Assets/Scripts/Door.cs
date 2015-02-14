@@ -10,7 +10,6 @@ public class Door : MonoBehaviour {
 	public AudioClip doorOpenSound;
 	public AudioClip doorClosedSound;
 
-
 	private const float OPEN_ROTATION = 270f;
 	private AudioSource audioSource;
 	
